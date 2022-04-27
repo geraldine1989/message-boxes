@@ -1,0 +1,10 @@
+.DS_Store
+/dist/
+node_modules/
+/public
+
+/cypress/videos/
+/cypress/screenshots/
+
+# Editor directories and files
+/.vscode/
